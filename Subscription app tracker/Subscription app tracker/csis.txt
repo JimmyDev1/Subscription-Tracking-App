@@ -1,0 +1,48 @@
+Please enter your password: ERROR incorrect password entered
+
+Please enter your password:
+This program saves information for ease of use
+if you have already input the date before
+input [1]
+if not input[0]
+waiting for input:Enter todays date as so -> mm/dd/yyyy: 
+you have entered -> 11/2/2022
+
+What is your account balance:
+you have entered -> 2000
+
+Subcription information will be saved for future runs of the program
+
+if you have already input your subscription information before
+input [1]
+if not input[0]
+waiting for input:
+
+please enter the amount of the subscription:
+Enter the subcription period
+enter [1] for Monthly
+enter [2] for Yearly
+enter [3] for Weekly
+enter [4] for Bi Weekly
+waiting for input:
+Would you like to enter another subscription
+enter [1] for yes
+enter [0] for no
+waiting for input:
+please enter the amount of the subscription:
+Enter the subcription period
+enter [1] for Monthly
+enter [2] for Yearly
+enter [3] for Weekly
+enter [4] for Bi Weekly
+waiting for input:
+Would you like to enter another subscription
+enter [1] for yes
+enter [0] for no
+waiting for input:
+due: 12/2/2022	after a deduction of 30 your balance is 1940
+
+due: 11/2/2023	after a deduction of 20 your balance is 1900
+
+On this date 11/2/2023 the total deducted will be 50
+
